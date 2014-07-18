@@ -2,6 +2,7 @@
 
 ## Some macros for finding sum squares of linear models
 
+##' @include lm_macros.R
 ##' @title Macro to calculate the residual sum squares of a linear model
 ##' @param lmdl a linear model object
 ##' @return The residual sum squares of a linear model
