@@ -9,3 +9,5 @@ Description: Macros for extracting sums of squares from linear models
 License: GNU GPLv3
 Collate:
     'lm_macros.R'
+Depends:
+    gtools
